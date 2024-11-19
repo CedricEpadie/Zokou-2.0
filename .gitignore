@@ -5,6 +5,5 @@ node_modules
 /set.env
 /store.json
 /auth
-/package-lock.json
 /audio.mp3
 commandes/img.js
